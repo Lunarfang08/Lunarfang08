@@ -1,0 +1,16 @@
+<svg width="860" height="30" viewBox="0 0 860 30" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes sd {
+        0%   { stroke-dashoffset: 900; opacity: 0; }
+        40%  { opacity: 0.7; }
+        100% { stroke-dashoffset: 0; opacity: 0.2; }
+      }
+      .sd  { stroke: #cc0000; stroke-width: 1; fill: none; stroke-dasharray: 900; animation: sd 4s ease-out infinite; }
+      .sd2 { stroke: #880000; stroke-width: 1; fill: none; stroke-dasharray: 900; animation: sd 4s ease-out infinite; animation-delay: 2s; }
+    </style>
+  </defs>
+  <rect width="860" height="30" fill="#050505"/>
+  <path class="sd"  d="M 0,15 Q 143,5 286,15 Q 429,25 572,15 Q 715,5 860,15"/>
+  <path class="sd2" d="M 0,15 Q 143,25 286,15 Q 429,5 572,15 Q 715,25 860,15"/>
+</svg>

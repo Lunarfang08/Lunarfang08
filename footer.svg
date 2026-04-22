@@ -1,0 +1,71 @@
+<svg width="860" height="120" viewBox="0 0 860 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes spinWeb {
+        0%   { transform: rotate(0deg);   }
+        100% { transform: rotate(360deg); }
+      }
+      @keyframes glowPulse {
+        0%,100% { opacity: 0.15; }
+        50%      { opacity: 0.50; }
+      }
+      @keyframes textFade {
+        0%,100% { opacity: 0.5; }
+        50%      { opacity: 1.0; }
+      }
+      .spin-group {
+        transform-origin: 430px 60px;
+        animation: spinWeb 20s linear infinite;
+      }
+      .glow-p  { animation: glowPulse 3s ease-in-out infinite; }
+      .glow-p2 { animation: glowPulse 3s ease-in-out infinite; animation-delay: 1s; }
+      .glow-p3 { animation: glowPulse 3s ease-in-out infinite; animation-delay: 1.5s; }
+      .footer-text {
+        font-family: 'Courier New', monospace;
+        fill: #cc0000;
+        font-size: 11px;
+        letter-spacing: 4px;
+        animation: textFade 4s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+
+  <rect width="860" height="120" fill="#050505"/>
+
+  <!-- Spinning web medallion -->
+  <g class="spin-group glow-p">
+    <line x1="430" y1="20" x2="430" y2="100" stroke="#cc0000" stroke-width="0.7"/>
+    <line x1="390" y1="30" x2="470" y2="90"  stroke="#cc0000" stroke-width="0.7"/>
+    <line x1="370" y1="60" x2="490" y2="60"  stroke="#cc0000" stroke-width="0.7"/>
+    <line x1="390" y1="90" x2="470" y2="30"  stroke="#cc0000" stroke-width="0.7"/>
+    <ellipse cx="430" cy="60" rx="20" ry="20" fill="none" stroke="#cc0000" stroke-width="0.6"/>
+    <ellipse cx="430" cy="60" rx="35" ry="35" fill="none" stroke="#cc0000" stroke-width="0.5"/>
+  </g>
+
+  <!-- Left corner web -->
+  <g class="glow-p2">
+    <line x1="0" y1="0" x2="180" y2="120" stroke="#cc0000" stroke-width="0.6"/>
+    <line x1="0" y1="0" x2="120" y2="120" stroke="#cc0000" stroke-width="0.6"/>
+    <line x1="0" y1="0" x2="60"  y2="120" stroke="#cc0000" stroke-width="0.6"/>
+    <line x1="0" y1="0" x2="240" y2="120" stroke="#cc0000" stroke-width="0.6"/>
+    <path d="M 0,30  Q 80,50  160,30"  fill="none" stroke="#cc0000" stroke-width="0.5"/>
+    <path d="M 0,60  Q 100,80 200,60"  fill="none" stroke="#cc0000" stroke-width="0.5"/>
+    <path d="M 0,90  Q 120,100 240,90" fill="none" stroke="#cc0000" stroke-width="0.5"/>
+  </g>
+
+  <!-- Right corner web -->
+  <g class="glow-p3">
+    <line x1="860" y1="0" x2="680" y2="120" stroke="#cc0000" stroke-width="0.6"/>
+    <line x1="860" y1="0" x2="740" y2="120" stroke="#cc0000" stroke-width="0.6"/>
+    <line x1="860" y1="0" x2="800" y2="120" stroke="#cc0000" stroke-width="0.6"/>
+    <line x1="860" y1="0" x2="620" y2="120" stroke="#cc0000" stroke-width="0.6"/>
+    <path d="M 860,30 Q 780,50  700,30"  fill="none" stroke="#cc0000" stroke-width="0.5"/>
+    <path d="M 860,60 Q 760,80  660,60"  fill="none" stroke="#cc0000" stroke-width="0.5"/>
+    <path d="M 860,90 Q 740,100 620,90"  fill="none" stroke="#cc0000" stroke-width="0.5"/>
+  </g>
+
+  <!-- Quote -->
+  <text x="430" y="65" text-anchor="middle" class="footer-text">"WITH GREAT POWER COMES GREAT CODE"</text>
+  <line x1="180" y1="75" x2="340" y2="75" stroke="#cc0000" stroke-width="0.8" opacity="0.4"/>
+  <line x1="520" y1="75" x2="680" y2="75" stroke="#cc0000" stroke-width="0.8" opacity="0.4"/>
+</svg>

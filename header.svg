@@ -1,0 +1,113 @@
+<svg width="900" height="160" viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .web-line { stroke: #cc0000; stroke-width: 0.8; opacity: 0.4; fill: none; }
+      .web-line-bright { stroke: #ff2222; stroke-width: 1.2; opacity: 0.7; fill: none; }
+      @keyframes swing {
+        0%   { transform: translateX(-120px) translateY(0px) rotate(-15deg); }
+        25%  { transform: translateX(200px) translateY(40px) rotate(5deg); }
+        50%  { transform: translateX(500px) translateY(10px) rotate(-10deg); }
+        75%  { transform: translateX(780px) translateY(35px) rotate(8deg); }
+        100% { transform: translateX(980px) translateY(0px) rotate(-5deg); }
+      }
+      @keyframes webDraw {
+        0%   { stroke-dashoffset: 600; opacity: 0; }
+        30%  { opacity: 0.7; }
+        100% { stroke-dashoffset: 0; opacity: 0.3; }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 0.2; }
+        50% { opacity: 0.8; }
+      }
+      @keyframes flicker {
+        0%,100%{opacity:1}45%{opacity:1}50%{opacity:0.4}55%{opacity:1}90%{opacity:1}92%{opacity:0.6}94%{opacity:1}
+      }
+      .spidey { animation: swing 4s ease-in-out infinite alternate; }
+      .web-strand { stroke-dasharray: 600; animation: webDraw 3s ease-out infinite; }
+      .pulse-web { animation: pulse 2s ease-in-out infinite; }
+      .title-text {
+        font-family: 'Courier New', monospace;
+        font-weight: 900;
+        fill: #cc0000;
+        font-size: 42px;
+        letter-spacing: 6px;
+        animation: flicker 5s infinite;
+      }
+      .sub-text {
+        font-family: 'Courier New', monospace;
+        fill: #ff4444;
+        font-size: 13px;
+        letter-spacing: 8px;
+      }
+    </style>
+    <filter id="redglow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="webglow">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="900" height="160" fill="#050505"/>
+
+  <!-- Top left corner web -->
+  <g class="pulse-web" filter="url(#webglow)">
+    <line class="web-line" x1="0" y1="0" x2="120" y2="80"/>
+    <line class="web-line" x1="0" y1="0" x2="80" y2="100"/>
+    <line class="web-line" x1="0" y1="0" x2="150" y2="50"/>
+    <line class="web-line" x1="0" y1="0" x2="60" y2="120"/>
+    <path class="web-line" d="M 20,0 Q 60,30 40,60"/>
+    <path class="web-line" d="M 40,0 Q 80,40 70,80"/>
+    <path class="web-line" d="M 70,0 Q 95,35 95,70"/>
+    <path class="web-line" d="M 0,20 Q 40,45 60,40"/>
+    <path class="web-line" d="M 0,50 Q 55,65 90,60"/>
+    <path class="web-line" d="M 0,80 Q 60,88 100,80"/>
+  </g>
+
+  <!-- Top right corner web -->
+  <g class="pulse-web" filter="url(#webglow)" style="animation-delay:1s">
+    <line class="web-line" x1="900" y1="0" x2="780" y2="80"/>
+    <line class="web-line" x1="900" y1="0" x2="820" y2="100"/>
+    <line class="web-line" x1="900" y1="0" x2="750" y2="50"/>
+    <line class="web-line" x1="900" y1="0" x2="840" y2="120"/>
+    <path class="web-line" d="M 880,0 Q 840,30 860,60"/>
+    <path class="web-line" d="M 860,0 Q 820,40 830,80"/>
+    <path class="web-line" d="M 830,0 Q 805,35 805,70"/>
+    <path class="web-line" d="M 900,20 Q 860,45 840,40"/>
+    <path class="web-line" d="M 900,50 Q 845,65 810,60"/>
+    <path class="web-line" d="M 900,80 Q 840,88 800,80"/>
+  </g>
+
+  <!-- Animated web strands -->
+  <path class="web-line-bright web-strand" d="M 80,0 Q 300,60 500,20 Q 700,60 900,10" filter="url(#webglow)" style="animation-delay:0.5s"/>
+  <path class="web-line-bright web-strand" d="M 0,30 Q 250,90 500,50 Q 750,90 900,40" filter="url(#webglow)" style="animation-delay:1s; opacity:0.4;"/>
+
+  <!-- Swinging Spider-Man -->
+  <g class="spidey" style="transform-origin: 50px 20px;">
+    <line x1="50" y1="20" x2="50" y2="-30" stroke="#cc0000" stroke-width="1" opacity="0.8"/>
+    <ellipse cx="50" cy="35" rx="12" ry="16" fill="#cc0000"/>
+    <ellipse cx="50" cy="17" rx="10" ry="11" fill="#cc0000"/>
+    <ellipse cx="46" cy="15" rx="4" ry="5" fill="white" opacity="0.9"/>
+    <ellipse cx="54" cy="15" rx="4" ry="5" fill="white" opacity="0.9"/>
+    <ellipse cx="46" cy="15" rx="4" ry="5" fill="none" stroke="#1a0000" stroke-width="1"/>
+    <ellipse cx="54" cy="15" rx="4" ry="5" fill="none" stroke="#1a0000" stroke-width="1"/>
+    <line x1="50" y1="22" x2="50" y2="50" stroke="#1a0000" stroke-width="0.8"/>
+    <line x1="38" y1="28" x2="62" y2="28" stroke="#1a0000" stroke-width="0.6"/>
+    <line x1="39" y1="36" x2="61" y2="36" stroke="#1a0000" stroke-width="0.6"/>
+    <line x1="41" y1="44" x2="59" y2="44" stroke="#1a0000" stroke-width="0.6"/>
+    <line x1="38" y1="28" x2="22" y2="18" stroke="#cc0000" stroke-width="5" stroke-linecap="round"/>
+    <line x1="62" y1="28" x2="78" y2="18" stroke="#cc0000" stroke-width="5" stroke-linecap="round"/>
+    <line x1="44" y1="50" x2="34" y2="66" stroke="#cc0000" stroke-width="5" stroke-linecap="round"/>
+    <line x1="56" y1="50" x2="66" y2="66" stroke="#cc0000" stroke-width="5" stroke-linecap="round"/>
+    <ellipse cx="50" cy="35" rx="12" ry="16" fill="none" stroke="#000066" stroke-width="1.5" opacity="0.5"/>
+  </g>
+
+  <!-- Title -->
+  <text x="450" y="85" text-anchor="middle" class="title-text" filter="url(#redglow)">ARSAL ADNAN</text>
+  <text x="450" y="115" text-anchor="middle" class="sub-text">AI ENGINEER  ·  FULL-STACK  ·  SYSTEMS ARCHITECT</text>
+  <line x1="150" y1="125" x2="370" y2="125" stroke="#cc0000" stroke-width="1" opacity="0.5"/>
+  <line x1="530" y1="125" x2="750" y2="125" stroke="#cc0000" stroke-width="1" opacity="0.5"/>
+  <circle cx="450" cy="125" r="3" fill="#cc0000" opacity="0.8"/>
+</svg>

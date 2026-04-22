@@ -1,0 +1,55 @@
+<svg width="860" height="80" viewBox="0 0 860 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes crawl {
+        0%   { transform: translateX(-40px); }
+        100% { transform: translateX(920px); }
+      }
+      @keyframes fadeWeb {
+        0%,100% { opacity: 0.15; }
+        50%      { opacity: 0.5; }
+      }
+      @keyframes legWiggle {
+        0%,100% { transform: translateX(-40px) rotate(0deg); }
+        25%     { transform: translateX(-40px) rotate(10deg); }
+        75%     { transform: translateX(-40px) rotate(-10deg); }
+      }
+      .crawl-spider { animation: crawl 8s linear infinite; }
+      .fade-web     { animation: fadeWeb 3s ease-in-out infinite; }
+    </style>
+  </defs>
+
+  <rect width="860" height="80" fill="#050505"/>
+
+  <!-- Static web radiate from center -->
+  <g class="fade-web">
+    <line x1="430" y1="0" x2="100" y2="80" stroke="#cc0000" stroke-width="0.7" opacity="0.4"/>
+    <line x1="430" y1="0" x2="200" y2="80" stroke="#cc0000" stroke-width="0.7" opacity="0.4"/>
+    <line x1="430" y1="0" x2="300" y2="80" stroke="#cc0000" stroke-width="0.7" opacity="0.4"/>
+    <line x1="430" y1="0" x2="430" y2="80" stroke="#cc0000" stroke-width="0.7" opacity="0.4"/>
+    <line x1="430" y1="0" x2="560" y2="80" stroke="#cc0000" stroke-width="0.7" opacity="0.4"/>
+    <line x1="430" y1="0" x2="660" y2="80" stroke="#cc0000" stroke-width="0.7" opacity="0.4"/>
+    <line x1="430" y1="0" x2="760" y2="80" stroke="#cc0000" stroke-width="0.7" opacity="0.4"/>
+    <path d="M 220,0 Q 430,55 640,0" fill="none" stroke="#cc0000" stroke-width="0.6" opacity="0.35"/>
+    <path d="M 130,0 Q 430,75 730,0" fill="none" stroke="#cc0000" stroke-width="0.6" opacity="0.25"/>
+    <path d="M 310,0 Q 430,35 550,0" fill="none" stroke="#cc0000" stroke-width="0.6" opacity="0.30"/>
+  </g>
+
+  <!-- Crawling spider -->
+  <g class="crawl-spider">
+    <circle cx="0" cy="40" r="5" fill="#cc0000"/>
+    <!-- Left legs -->
+    <line x1="-8" y1="37" x2="-18" y2="28" stroke="#cc0000" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="-8" y1="40" x2="-18" y2="40" stroke="#cc0000" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="-8" y1="43" x2="-18" y2="52" stroke="#cc0000" stroke-width="1.5" stroke-linecap="round"/>
+    <!-- Right legs -->
+    <line x1="8" y1="37" x2="18" y2="28" stroke="#cc0000" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="8" y1="40" x2="18" y2="40" stroke="#cc0000" stroke-width="1.5" stroke-linecap="round"/>
+    <line x1="8" y1="43" x2="18" y2="52" stroke="#cc0000" stroke-width="1.5" stroke-linecap="round"/>
+    <!-- Eyes -->
+    <circle cx="-2" cy="38" r="1.5" fill="white"/>
+    <circle cx="2"  cy="38" r="1.5" fill="white"/>
+    <!-- Web trail -->
+    <line x1="-5" y1="40" x2="-30" y2="40" stroke="#cc0000" stroke-width="0.6" opacity="0.4"/>
+  </g>
+</svg>

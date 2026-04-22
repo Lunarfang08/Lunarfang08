@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://raw.githubusercontent.com/Lunarfang08/Lunarfang08/main/header.svg]
+![header](https://raw.githubusercontent.com/Lunarfang08/Lunarfang08/main/header.svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2500&pause=1200&color=CC0000&background=00000000&center=true&vCenter=true&width=700&lines=AI+Engineer+%2F+Full-Stack+Developer+%2F+Systems+Architect;LangGraph+%7C+LangChain+%7C+FastAPI+%7C+MERN+Stack;Building+autonomous+agents+that+think%2C+validate+%26+self-heal;With+great+power+comes+great+responsibility+and+great+code;Currently+%40+Intercraft+Pvt+Ltd+%E2%80%94+Rawalpindi%2C+Pakistan)](https://git.io/typing-svg)
 
