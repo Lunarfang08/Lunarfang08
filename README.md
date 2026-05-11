@@ -197,19 +197,18 @@ JUL 2023        [====]  JUNIOR DEVELOPER
 </div>
 
 ---
-## `> DIAGNOSTICS`
-
+## > DIAGNOSTICS
 <div align="center">
-
-![Diagnostics](https://raw.githubusercontent.com/Lunarfang08/Lunarfang08/main/diagnostics.svg)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lunarfang08&show_icons=true&hide_border=true&bg_color=050505&title_color=CC0000&icon_color=CC0000&text_color=888888&ring_color=CC0000)
+&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lunarfang08&layout=compact&hide_border=true&bg_color=050505&title_color=CC0000&text_color=888888)
 </div>
-
----
-
 <div align="center">
-
+![Streak](https://streak-stats.demolab.com?user=Lunarfang08&hide_border=true&background=050505&ring=CC0000&fire=CC0000&currStreakLabel=CC0000&sideLabels=666666&dates=444444&currStreakNum=CC0000&sideNums=888888)
+</div>
+---
+<div align="center">
 ![footer](https://raw.githubusercontent.com/Lunarfang08/Lunarfang08/main/footer.svg)
 ![Visitor Badge](https://komarev.com/ghpvc/?username=Lunarfang08&style=flat-square&color=CC0000&label=PROFILE+READS)
-
 </div>
+
