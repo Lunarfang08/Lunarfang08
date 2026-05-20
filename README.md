@@ -205,7 +205,7 @@ JUL 2023        [====]  JUNIOR DEVELOPER
 
 &nbsp;
 
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunarfang08&layout=compact&hide_border=true&bg_color=050505&title_color=CC0000&text_color=888888&cache_seconds=86400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunarfang08&layout=compact&hide_border=true&bg_color=050505&title_color=CC0000&text_color=888888&cache_seconds=86400" />
 
 </div>
 
