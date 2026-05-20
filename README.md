@@ -205,13 +205,13 @@ JUL 2023        [====]  JUNIOR DEVELOPER
 
 &nbsp;
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunarfang08&layout=compact&hide_border=true&bg_color=050505&title_color=CC0000&text_color=888888&cache_seconds=86400" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunarfang08&layout=compact&hide_border=true&bg_color=050505&title_color=CC0000&text_color=888888&cache_seconds=86400" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Lunarfang08&hide_border=true&background=050505&ring=CC0000&fire=CC0000&currStreakLabel=CC0000&sideLabels=666666&dates=444444&currStreakNum=CC0000&sideNums=888888" />
+<img src="https://streak-stats.demolab.com?user=Lunarfang08&hide_border=true&background=050505&ring=CC0000&fire=CC0000&currStreakLabel=CC0000&sideLabels=666666&dates=444444&currStreakNum=CC0000&sideNums=888888" /> -->
 
 </div>
 
