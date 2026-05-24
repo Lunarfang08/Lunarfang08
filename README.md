@@ -197,18 +197,6 @@ JUL 2023        [====]  JUNIOR DEVELOPER
 </div>
 
 ---
-## `> OPEN CHANNELS`
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-arsaladnan01.vercel.app-CC0000?style=for-the-badge&labelColor=0a0a0a)](https://arsaladnan01.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Arsal%20Adnan-CC0000?style=for-the-badge&labelColor=0a0a0a)](https://linkedin.com/in/arsaladnan)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-arsaladnan-CC0000?style=for-the-badge&labelColor=0a0a0a)](https://leetcode.com/u/arsaladnan/)
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT-CC0000?style=for-the-badge&labelColor=0a0a0a)](mailto:arsaladnan07@gmail.com)
-
-</div>
-
----
 
 ## `> TECH STACK`
 
