@@ -197,21 +197,40 @@ JUL 2023        [====]  JUNIOR DEVELOPER
 </div>
 
 ---
-## `> DIAGNOSTICS`
+## `> OPEN CHANNELS`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lunarfang08&show_icons=true&hide_border=true&bg_color=050505&title_color=CC0000&icon_color=CC0000&text_color=888888&ring_color=CC0000&cache_seconds=86400" />
-
-&nbsp;
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunarfang08&layout=compact&hide_border=true&bg_color=050505&title_color=CC0000&text_color=888888&cache_seconds=86400" />
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-arsaladnan01.vercel.app-CC0000?style=for-the-badge&labelColor=0a0a0a)](https://arsaladnan01.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Arsal%20Adnan-CC0000?style=for-the-badge&labelColor=0a0a0a)](https://linkedin.com/in/arsaladnan)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-arsaladnan-CC0000?style=for-the-badge&labelColor=0a0a0a)](https://leetcode.com/u/arsaladnan/)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-CC0000?style=for-the-badge&labelColor=0a0a0a)](mailto:arsaladnan07@gmail.com)
 
 </div>
 
+---
+
+## `> TECH STACK`
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Lunarfang08&hide_border=true&background=050505&ring=CC0000&fire=CC0000&currStreakLabel=CC0000&sideLabels=666666&dates=444444&currStreakNum=CC0000&sideNums=888888" /> -->
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=red)
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=red)
+![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge&logo=chainlink&logoColor=red)
+![LangGraph](https://img.shields.io/badge/LangGraph-111111?style=for-the-badge&logo=graphql&logoColor=red)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=red)
+
+![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=red)
+![Anthropic](https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=anthropic&logoColor=red)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=red)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=red)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=red)
+
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=red)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=red)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=red)
+![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=red)
+![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=red)
 
 </div>
 
