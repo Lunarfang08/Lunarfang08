@@ -32,7 +32,7 @@ mission      : Building scalable, intelligent systems that operate at the edge o
 ## `> OPERATIONAL TIMELINE`
 
 ```
-2026 — PRESENT  [========================================]  AI ENGINEER
+2025 — PRESENT  [========================================]  AI ENGINEER
                  Intercraft Pvt Ltd, Rawalpindi
                  — Autonomous error-detection & auto-fixing agents via LangGraph + LLM
                  — Multi-phase QA pipelines: PRE-QA  BUILD-QA  RUNTIME-QA
