@@ -550,31 +550,13 @@ STATUS :: VERIFIED
 
 ---
 
----
-
-# `> SPIDER-SENSE // CONTRIBUTION MATRIX`
+# `> CONTRIBUTION MATRIX`
 
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/Lunarfang08/Lunarfang08/output/github-contribution-grid-snake-dark.svg"
-  alt="GitHub Contribution Snake"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lunarfang08&bg_color=080808&color=FFFFFF&line=FF3333&point=FFFFFF&area=true&hide_border=true"/>
 
-<br/>
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║                 🕷️  SPIDER-SENSE TELEMETRY                  ║
-║                                                              ║
-║        EVERY COMMIT LEAVES A TRACE IN THE WEB.              ║
-║                                                              ║
-║              ░░░░░░░░░░░░░░░░░░░░░░░░                     ║
-║              ░░ CONTRIBUTION MATRIX ░░                     ║
-║              ░░ SYSTEM ACTIVITY  ░░░░                     ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
+</div>
 
 ---
 
