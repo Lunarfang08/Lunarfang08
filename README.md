@@ -1,232 +1,649 @@
 <div align="center">
 
-![header](https://raw.githubusercontent.com/Lunarfang08/Lunarfang08/main/header.svg)
+# ⚡ ARSAL ADNAN
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=2500&pause=1200&color=CC0000&background=00000000&center=true&vCenter=true&width=700&lines=AI+Engineer+%2F+Full-Stack+Developer+%2F+Systems+Architect;LangGraph+%7C+LangChain+%7C+FastAPI+%7C+MERN+Stack;Building+autonomous+agents+that+think%2C+validate+%26+self-heal;With+great+power+comes+great+responsibility+and+great+code;Currently+%40+Intercraft+Pvt+Ltd+%E2%80%94+Rawalpindi%2C+Pakistan)](https://git.io/typing-svg)
+### `AI ENGINEER` · `AGENTIC AI` · `FULL-STACK SYSTEMS`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2200&pause=900&color=FF3333&center=true&vCenter=true&width=800&lines=I+build+AI+systems+that+actually+do+things.;Agentic+AI+%7C+LLMs+%7C+RAG+%7C+Full-Stack;I+make+software+plan%2C+execute%2C+fail+%26+recover.;Currently+engineering+AI+systems+at+Intercraft+Pvt+Ltd." alt="Typing SVG" />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Lunarfang08&style=for-the-badge&color=161616&label=PROFILE+INTRUSIONS" />
+
+<br/><br/>
+
+<a href="https://arsaladnan08-one.vercel.app/">
+<img src="https://img.shields.io/badge/PORTFOLIO-FF3333?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/arsaladnan/">
+<img src="https://img.shields.io/badge/LINKEDIN-161616?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Lunarfang08">
+<img src="https://img.shields.io/badge/GITHUB-161616?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:arsaladnan07@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-161616?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-<div align="center">
-
-![divider](https://raw.githubusercontent.com/Lunarfang08/Lunarfang08/main/divider.svg)
-
-</div>
-
-## `> PERSONNEL FILE`
+# `> WHO TF IS ARSAL?`
 
 ```yaml
-name         : Arsal Adnan
-handle       : Lunarfang08
-current_role : AI Engineer — Intercraft Pvt Ltd
-location     : Rawalpindi, Pakistan
-education    : BS Computer Science — Bahria University (2020–2024)
-status       : ACTIVE
-clearance    : Full-Stack | AI/ML | Autonomous Agents | DevOps
-mission      : Building scalable, intelligent systems that operate at the edge of automation
+identity:
+  name: "Arsal Adnan"
+  handle: "Lunarfang08"
+  role: "AI Engineer"
+  specialization:
+    - Agentic AI
+    - LLM Applications
+    - Full-Stack Engineering
+    - Intelligent Automation
+    - AI Infrastructure
+
+current_mission:
+  company: "Intercraft Pvt Ltd"
+  objective: "Build scalable AI systems that can reason, execute, validate and recover."
+
+philosophy:
+  - "Don't just build software. Build systems that build software."
+  - "If it can be automated, automate it."
+  - "If it can fail, make it recover."
+  - "If it can scale, make it scalable."
+
+status: "ONLINE"
+coffee: "INSUFFICIENT"
+bugs: "CLASSIFIED"
 ```
 
 ---
 
-## `> OPERATIONAL TIMELINE`
-
-```
-2025 — PRESENT  [========================================]  AI ENGINEER
-                 Intercraft Pvt Ltd, Rawalpindi
-                 — Autonomous error-detection & auto-fixing agents via LangGraph + LLM
-                 — Multi-phase QA pipelines: PRE-QA  BUILD-QA  RUNTIME-QA
-                 — Production REST APIs (FastAPI) with async ops & multi-user sessions
-                 — Docker containerization with auto port management & error recovery
-                 — LLM integration: OpenAI, Anthropic, Ollama via LangChain
-                 — Stack: Python · FastAPI · Docker · LangChain · LangGraph
-
-2024 — 2025     [================================]  SOFTWARE ENGINEER
-                 eGeefis Global, Rawalpindi
-                 — AI & data-driven application design and deployment
-                 — Full-stack web & enterprise application delivery
-                 — Stack: Python · JavaScript · TensorFlow · MongoDB
-
-AUG 2024        [================]  RESEARCH ANALYST
-                 eGeefis Global — 100+ market data reports — +15% sales growth
-
-SEP 2023        [========]  FRONT-END DEVELOPER
-                 Internee.pk, Islamabad — Flutter — +30% app performance
-
-JUL 2023        [====]  JUNIOR DEVELOPER
-                 The Worx, Islamabad — React.js — +40% load speed
-```
+# `> WHAT I ACTUALLY BUILD`
 
 <div align="center">
 
-![wave](https://raw.githubusercontent.com/Lunarfang08/Lunarfang08/main/wave.svg)
+| 🧠 AI SYSTEMS |   ⚙️ BACKEND  | 🖥️ FULL-STACK |      🚀 INFRA     |
+| :-----------: | :-----------: | :------------: | :---------------: |
+|   AI Agents   |    FastAPI    |      React     |       Docker      |
+|    LLM Apps   |   Async APIs  |     Next.js    |        AWS        |
+| RAG Pipelines |   REST APIs   |   TypeScript   |       Nginx       |
+|   LangGraph   |   WebSockets  |     Node.js    |       CI/CD       |
+| LLM Workflows | Microservices |      MERN      | Cloud Deployments |
+
+</div>
+
+<br/>
+
+> **My sweet spot:** taking an idea from **"what if..."** → **working AI system**.
+
+---
+
+# `> CURRENTLY BUILDING`
+
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   █████╗ ██╗    ██╗    ███████╗ ██████╗ ███████╗███████╗       ║
+║  ██╔══██╗██║    ██║    ██╔════╝██╔══██╗██╔════╝██╔════╝       ║
+║  ███████║██║ █╗ ██║    █████╗  ██████╔╝█████╗  ███████╗       ║
+║  ██╔══██║██║███╗██║    ██╔══╝  ██╔══██╗██╔══╝  ╚════██║       ║
+║  ██║  ██║╚███╔███╔╝    ███████╗██║  ██║███████╗███████║       ║
+║  ╚═╝  ╚═╝ ╚══╝╚══╝     ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝       ║
+║                                                                  ║
+║             AGENTIC SOFTWARE ENGINEERING                        ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+### `LYRA / AI FULL-STACK PROJECT GENERATOR`
+
+An autonomous software engineering system that takes a natural-language idea and turns it into a working application.
+
+```text
+USER PROMPT
+     │
+     ▼
+┌──────────────┐
+│   PLANNER    │
+└──────┬───────┘
+       ▼
+┌──────────────┐
+│   BUILDER    │──────► React / Vue / Angular
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│   BACKEND    │──────► FastAPI / Flask / Express
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│   QA AGENT   │
+└──────┬───────┘
+       │
+       ├──── BUG FOUND ────► AUTO FIX
+       │
+       ▼
+┌──────────────┐
+│   VALIDATE   │
+└──────┬───────┘
+       ▼
+    DEPLOY 🚀
+```
+
+**Stack:** `Python` · `FastAPI` · `LangGraph` · `LangChain` · `Docker` · `Anthropic` · `OpenAI` · `FAISS` · `asyncio`
+
+---
+
+# `> FEATURED BUILDS`
+
+## 🧠 AI Full-Stack Project Generator
+
+> **Prompt in. Production app out.**
+
+An autonomous multi-agent system capable of generating complete full-stack applications from natural-language requirements.
+
+**Highlights**
+
+* 🤖 Multi-agent LangGraph orchestration
+* 🏗️ Automatic frontend/backend architecture detection
+* ⚛️ React / Vue / Angular generation
+* 🐍 FastAPI / Flask / Express backend generation
+* 🧪 PRE-QA → BUILD-QA → RUNTIME-QA pipeline
+* 🔧 Automated error detection and recovery
+* 🐳 Docker Compose orchestration
+* ⚡ Async execution with parallel processing
+* 💾 FAISS-powered context retrieval
+* 💰 Prompt caching for reduced LLM costs
+* 🌐 Cloudflare Tunnel deployment
+
+**Architecture**
+
+```text
+                    ┌───────────────┐
+                    │     USER      │
+                    └───────┬───────┘
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │    PLANNER    │
+                    └───────┬───────┘
+                            │
+             ┌──────────────┼──────────────┐
+             ▼              ▼              ▼
+        FRONTEND         BACKEND          DB
+          AGENT           AGENT          AGENT
+             │              │              │
+             └──────────────┼──────────────┘
+                            ▼
+                    ┌───────────────┐
+                    │   QA AGENTS   │
+                    └───────┬───────┘
+                            │
+                    ┌───────▼───────┐
+                    │ ERROR DETECTED │
+                    └───────┬───────┘
+                            │
+                         FIX IT
+                            │
+                            ▼
+                    ┌───────────────┐
+                    │    DEPLOY     │
+                    └───────────────┘
+```
+
+---
+
+## 🤖 AI-Powered Chatbot System
+
+> **Not another chatbot that just says "Hello! How can I help?"**
+
+Built an intelligent conversational system supporting:
+
+* 🧠 Intent classification
+* 🔍 Entity extraction
+* 💾 Multi-turn conversation memory
+* 📚 RAG-powered knowledge retrieval
+* 🛡️ Structured-response guardrails
+* 🏨 Hotel booking workflows
+* 🚌 Bus booking workflows
+* ✈️ Tour booking workflows
+
+**Stack:** `LLMs` · `RAG` · `FastAPI` · `MongoDB` · `Python`
+
+---
+
+## 📄 PlanetOCR — Intelligent Document Processing
+
+> **Documents go in. Structured intelligence comes out.**
+
+AI-powered Intelligent Document Processing platform combining OCR/VLM pipelines for automated document understanding.
+
+```text
+DOCUMENT
+   │
+   ▼
+┌──────────────┐
+│ CLASSIFY     │
+└──────┬───────┘
+       ▼
+┌──────────────┐
+│ OCR / VLM    │
+└──────┬───────┘
+       ▼
+┌──────────────┐
+│ EXTRACT      │
+└──────┬───────┘
+       ▼
+┌──────────────┐
+│ VALIDATE     │
+└──────┬───────┘
+       ▼
+┌──────────────┐
+│ REVIEW       │
+└──────┬───────┘
+       ▼
+┌──────────────┐
+│ INTEGRATE    │
+└──────────────┘
+```
+
+**Built around:**
+
+* OCR + VLM pipelines
+* Document classification
+* Extraction + validation
+* Packet matching
+* Deduplication
+* Review queues
+* Vendor resolution
+* Webhook integrations
+* Xero / QuickBooks / Zapier connectors
+* Versioned LLM prompts
+* GPU scheduling
+
+---
+
+## 🧮 NumBuddy
+
+> **Technology with an actual human purpose.**
+
+Full-stack e-learning platform designed around learning experiences for individuals with dyscalculia.
+
+**Stack:** `MongoDB` · `Express` · `React` · `Node.js`
+
+**Security:** `JWT` · `bcrypt.js` · `RBAC`
+
+🔗 **Live:** https://numbuddy.vercel.app/
+
+---
+
+## 👨‍💼 Employee Management System
+
+> **Because spreadsheets eventually become everyone's problem.**
+
+Enterprise-style employee management platform supporting:
+
+* Employee records
+* Payroll
+* Ledger management
+* Payslip generation
+* Role-based access
+* MongoDB Atlas
+* Vercel deployment
+
+**Stack:** `React` · `Node.js` · `MongoDB Atlas`
+
+---
+
+## 📅 Appointment Booking System
+
+MERN-based scheduling platform focused on streamlined appointment management.
+
+**Stack:** `React` · `Node.js` · `MongoDB` · `Vercel`
+
+---
+
+## 💬 ChatReader API
+
+AI-powered API for conversational understanding and structured extraction.
+
+```text
+INPUT
+ │
+ ▼
+INTENT DETECTION
+ │
+ ▼
+ENTITY EXTRACTION
+ │
+ ▼
+CONTEXT / MEMORY
+ │
+ ▼
+STRUCTURED RESPONSE
+```
+
+**Stack:** `FastAPI` · `OpenAI` · `MongoDB` · `asyncio` · `spaCy` · `Pydantic`
+
+---
+
+# `> EXPERIENCE`
+
+```text
+2025 ───────────── PRESENT
+│
+├── AI ENGINEER
+│   Intercraft Pvt Ltd
+│
+│   ├── Agentic AI systems
+│   ├── LangGraph orchestration
+│   ├── LLM-powered QA pipelines
+│   ├── FastAPI production services
+│   ├── Docker-based execution
+│   └── Automated error detection + recovery
+│
+2024 ───────────── 2025
+│
+├── SOFTWARE ENGINEER
+│   eGeefis Global
+│
+│   ├── Full-stack applications
+│   ├── AI / data-driven systems
+│   ├── Python
+│   ├── JavaScript
+│   ├── TensorFlow
+│   └── MongoDB
+│
+2024
+│
+├── RESEARCH ANALYST
+│   eGeefis Global
+│
+│   └── 100+ market intelligence reports
+│
+2023
+│
+├── FRONT-END DEVELOPER
+│   Internee.pk
+│
+│   └── Flutter development + optimization
+│
+2023
+│
+└── JUNIOR DEVELOPER
+    The Worx
+```
+
+---
+
+# `> DAMAGE REPORT`
+
+### Things I've managed to break — and then make faster:
+
+```text
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│  ⚡ 60%     LLM API token-cost reduction             │
+│                                                      │
+│  🚀 35%     Faster project deployment                │
+│                                                      │
+│  📡 50+     Concurrent API requests                  │
+│                                                      │
+│  🔥 40%     Website load-speed improvement           │
+│                                                      │
+│  📱 30%     App performance improvement              │
+│                                                      │
+│  📊 15%     Sales growth from market analysis        │
+│                                                      │
+│  🧑‍💼 25%    HR workload reduction                    │
+│                                                      │
+│  💰 20%     Payroll accuracy improvement             │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
+
+---
+
+# `> TECH ARSENAL`
+
+### 🧠 AI / ML
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow"/>
+
+</p>
+
+```text
+LangChain · LangGraph · RAG · FAISS
+OpenAI · Anthropic Claude · Ollama
+TensorFlow · PyTorch · spaCy · Pandas
+LLM orchestration · Prompt Engineering
+AI Agents · Intelligent Automation
+```
+
+### ⚙️ Backend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express"/>
+
+</p>
+
+```text
+FastAPI · Flask · Django
+Node.js · Express
+REST APIs · AsyncIO
+WebSockets · Pydantic
+Microservices · API Architecture
+```
+
+### 🖥️ Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css"/>
+
+</p>
+
+```text
+React · Next.js · TypeScript · JavaScript
+Tailwind CSS · HTML5 · CSS · SCSS
+Flutter · ASP.NET
+```
+
+### 🗄️ Data
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,postgresql"/>
+
+</p>
+
+```text
+MongoDB · MongoDB Atlas
+PostgreSQL
+FAISS
+Data pipelines · Vector retrieval
+```
+
+### 🚀 DevOps / Cloud
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,aws,nginx,git,github,linux"/>
+
+</p>
+
+```text
+Docker · Docker Compose
+AWS · Nginx · Apache
+Linux · Git · GitHub
+Uvicorn · Gunicorn
+Container orchestration
+```
+
+---
+
+# `> SYSTEM ARCHITECTURE`
+
+```text
+                         ┌──────────────────┐
+                         │      USERS       │
+                         └────────┬─────────┘
+                                  │
+                                  ▼
+                         ┌──────────────────┐
+                         │   API GATEWAY    │
+                         └────────┬─────────┘
+                                  │
+             ┌────────────────────┼────────────────────┐
+             │                    │                    │
+             ▼                    ▼                    ▼
+      ┌────────────┐       ┌────────────┐       ┌────────────┐
+      │   AGENTS   │       │    RAG     │       │  SERVICES  │
+      └─────┬──────┘       └─────┬──────┘       └─────┬──────┘
+            │                    │                    │
+            ▼                    ▼                    ▼
+      ┌────────────┐       ┌────────────┐       ┌────────────┐
+      │ LangGraph  │       │   FAISS    │       │  FastAPI   │
+      └─────┬──────┘       └────────────┘       └─────┬──────┘
+            │                                          │
+            └────────────────┬─────────────────────────┘
+                             ▼
+                    ┌──────────────────┐
+                    │   LLM PROVIDERS  │
+                    │                  │
+                    │ OpenAI           │
+                    │ Anthropic        │
+                    │ Ollama           │
+                    └────────┬─────────┘
+                             │
+                             ▼
+                    ┌──────────────────┐
+                    │    DATABASES     │
+                    │ MongoDB / SQL    │
+                    └──────────────────┘
+```
+
+---
+
+# `> GITHUB ACTIVITY`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Lunarfang08&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF3333&icon_color=FF3333&text_color=FFFFFF&count_private=true" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunarfang08&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF3333&text_color=FFFFFF" height="180"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lunarfang08&theme=dark&hide_border=true&background=0D1117&ring=FF3333&fire=FF3333&currStreakLabel=FF3333"/>
 
 </div>
 
 ---
 
-## `> SYSTEM CAPABILITIES`
+# `> CONTRIBUTION GRAPH`
 
 <div align="center">
 
-| Domain | Technologies |
-|---|---|
-| **Languages** | Python · JavaScript · TypeScript · C++ · C# · SQL · HTML5 · CSS · SCSS |
-| **Frontend** | React · Next.js · Tailwind CSS · Flutter · ASP.NET |
-| **Backend** | Node.js · Express · FastAPI · Flask · Django · ASP.NET Core |
-| **AI / ML** | LangChain · LangGraph · TensorFlow · PyTorch · spaCy · Pandas · RAG · FAISS |
-| **Databases** | MongoDB · MongoDB Atlas |
-| **DevOps** | Docker · Docker Compose · AWS · Apache · Nginx · Gunicorn · Uvicorn |
-| **LLM Backends** | OpenAI GPT · Anthropic Claude · Ollama |
-| **Auth / Security** | JWT · bcrypt.js · RBAC · SSL/TLS · Token-based APIs |
-| **Tools** | Git · GitHub · VS Code · Jupyter · Figma · Power BI · Pydantic |
-
-</div>
-
-<div align="center">
-
-![wave](https://raw.githubusercontent.com/Lunarfang08/Lunarfang08/main/wave.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lunarfang08&bg_color=0D1117&color=FFFFFF&line=FF3333&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-## `> DEPLOYED PROJECTS`
+# `> CERTIFIED`
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  [ WEB-01 ] :: AI FULLSTACK GENERATOR AGENT                          [2026]  ║
-║  ─────────────────────────────────────────────────────────────────────────  ║
-║  Autonomous agent — generates production-ready fullstack apps from prompts   ║
-║  React/Vue/Angular + Express/Flask/FastAPI auto-detection                    ║
-║  > 3-phase QA pipeline with auto error detection & fixing                    ║
-║  > Docker Compose automation — hours to seconds                              ║
-║  > Anthropic prompt caching — 40% LLM cost reduction                        ║
-║  > CloudFlare Tunnel — global HTTPS, zero port forwarding                    ║
-║  Stack: FastAPI · LangGraph · Docker · Anthropic/OpenAI · FAISS · asyncio   ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  [ WEB-02 ] :: AI-POWERED CHATBOT SYSTEM                             [2026]  ║
-║  ─────────────────────────────────────────────────────────────────────────  ║
-║  Bookings: hotels, buses, tours. LLM intent + entity extraction.             ║
-║  Multi-turn memory. RAG-based FAQ. Guardrails for structured responses.      ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  [ WEB-03 ] :: NUMBUDDY — E-LEARNING PLATFORM                        [2024]  ║
-║  ─────────────────────────────────────────────────────────────────────────  ║
-║  For individuals with dyscalculia. Full MERN stack.                          ║
-║  bcrypt.js · JWT · RBAC — full security layer.                               ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  [ WEB-04 ] :: EMPLOYEE MANAGEMENT SYSTEM                            [2024]  ║
-║  ─────────────────────────────────────────────────────────────────────────  ║
-║  Payroll · ledger · payslip generation. 25% HR workload down.                ║
-║  20% payroll accuracy up. React · Node.js · MongoDB Atlas · Vercel           ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  [ WEB-05 ] :: APPOINTMENT BOOKING SYSTEM                            [2024]  ║
-║  ─────────────────────────────────────────────────────────────────────────  ║
-║  MERN stack scheduling. $500,000 operational savings via MongoDB + Vercel.   ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  [ WEB-06 ] :: CHATREADER API                                        [2025]  ║
-║  ─────────────────────────────────────────────────────────────────────────  ║
-║  Memory · intent classification · data extraction.                           ║
-║  FastAPI · OpenAI GPT-3.5 · MongoDB · asyncio · spaCy · Pydantic            ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  [ WEB-07 ] :: TASK MANAGEMENT APP                                   [2025]  ║
-║  ─────────────────────────────────────────────────────────────────────────  ║
-║  Next.js 14 · TypeScript · Tailwind CSS                                      ║
-║  Real-time countdown timers · idle detection · Excel export                  ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+```text
+[x] AWS Cloud Architecting
+[x] AWS Cloud Developing
+[x] Google — Introduction to Generative AI
+[x] Meta — Frontend Development
+[x] Introduction to Figma
+[x] Introduction to WordPress
 ```
 
 ---
 
-## `> KEY ACHIEVEMENTS`
+# `> THE TERMINAL`
 
-```
-[01]  Reduced LLM API token costs by 60% via Anthropic prompt caching
-[02]  Cut project deployment time by 35% using ThreadPoolExecutor + asyncio
-[03]  REST endpoints handling 50+ concurrent requests with full SSL/TLS
-[04]  Website load speed improved by 40% at The Worx
-[05]  App performance increased by 30% at Internee.pk via Flutter optimization
-[06]  15% sales growth from 100-report market analysis at eGeefis Global
-[07]  HR workload reduced by 25%, payroll accuracy improved by 20%
-[08]  Appointment system enabled $500,000 in operational cost reductions
-[09]  Modular agent architecture enabling independent AI pipeline scaling
-[10]  Sub-2-second API response times maintained under concurrent load
+```bash
+$ whoami
+
+arsal@ai-lab:~$ AI Engineer
+arsal@ai-lab:~$ Agentic Systems Builder
+arsal@ai-lab:~$ Full-Stack Developer
+arsal@ai-lab:~$ Professional problem overcomplicator
+
+$ cat /etc/motivation
+
+"Build it.
+Break it.
+Understand it.
+Automate it.
+Ship it."
+
+$ systemctl status arsal
+
+● arsal.service
+   Loaded: enabled
+   Active: active (running)
+   Agents:  ████████████████████ 100%
+   Coffee:  ███░░░░░░░░░░░░░░░░ 15%
+   Bugs:    ████████████████████ ???%
+
+$ exit
+
+Connection closed.
 ```
 
 ---
 
-## `> CERTIFICATIONS`
-
-```
-[x]  AWS Cloud Architecting
-[x]  AWS Cloud Developing
-[x]  Google — Introduction to Generative AI
-[x]  Meta — Frontend Development
-[x]  Introduction to Figma
-[x]  Introduction to WordPress
-```
-
----
-
-## `> OPEN CHANNELS`
+# `> LET'S BUILD SOMETHING UNREASONABLE`
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-arsaladnan01.vercel.app-CC0000?style=flat-square&labelColor=0a0a0a&color=CC0000)](https://arsaladnan01.vercel.app/)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-in%2Farsaladnan-CC0000?style=flat-square&labelColor=0a0a0a&color=CC0000)](https://www.linkedin.com/in/arsaladnan/)
-&nbsp;
-[![LeetCode](https://img.shields.io/badge/LEETCODE-arsaladnan-CC0000?style=flat-square&labelColor=0a0a0a&color=CC0000)](https://leetcode.com/u/arsaladnan/)
-&nbsp;
-[![NumBuddy](https://img.shields.io/badge/NUMBUDDY-LIVE-CC0000?style=flat-square&labelColor=0a0a0a&color=CC0000)](https://numbuddy.vercel.app/)
-&nbsp;
-[![Email](https://img.shields.io/badge/EMAIL-arsaladnan07%40gmail.com-CC0000?style=flat-square&labelColor=0a0a0a&color=CC0000)](mailto:arsaladnan07@gmail.com)
+### Got an idea?
 
-</div>
+### Need an AI agent?
 
----
+### Want software that does more than display a dashboard?
 
-## `> TECH STACK`
+**Let's talk.**
 
-<div align="center">
+<br/>
 
-![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=red)
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=red)
-![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge&logo=chainlink&logoColor=red)
-![LangGraph](https://img.shields.io/badge/LangGraph-111111?style=for-the-badge&logo=graphql&logoColor=red)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=red)
+<a href="https://arsaladnan08-one.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-FF3333?style=for-the-badge"/>
+</a>
 
-![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=for-the-badge&logo=openai&logoColor=red)
-![Anthropic](https://img.shields.io/badge/Claude-111111?style=for-the-badge&logo=anthropic&logoColor=red)
-![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge&logo=mongodb&logoColor=red)
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=red)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=red)
+<a href="https://www.linkedin.com/in/arsaladnan/">
+<img src="https://img.shields.io/badge/💼_LINKEDIN-161616?style=for-the-badge"/>
+</a>
 
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=red)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=red)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge&logo=tensorflow&logoColor=red)
-![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch&logoColor=red)
-![AWS](https://img.shields.io/badge/AWS-111111?style=for-the-badge&logo=amazonaws&logoColor=red)
+<a href="mailto:arsaladnan07@gmail.com">
+<img src="https://img.shields.io/badge/✉️_EMAIL-161616?style=for-the-badge"/>
+</a>
 
-</div>
+<br/><br/>
 
----
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│       BUILD. BREAK. AUTOMATE. REPEAT.      │
+│                                             │
+└─────────────────────────────────────────────┘
+```
 
-<div align="center">
-
-![footer](https://raw.githubusercontent.com/Lunarfang08/Lunarfang08/main/footer.svg)
-![Visitor Badge](https://komarev.com/ghpvc/?username=Lunarfang08&style=flat-square&color=CC0000&label=PROFILE+READS)
+### `// END OF README — SYSTEM STILL RUNNING`
 
 </div>
