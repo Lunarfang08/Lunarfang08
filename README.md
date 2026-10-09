@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/Lunarfang08/Lunarfang08@main/assets/banner.svg" alt="Arsal Adnan — Spider System" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/Lunarfang08/Lunarfang08@2d62ae7/assets/banner.svg" alt="Arsal Adnan — Spider System" width="100%"/>
 
 <br/>
 
@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://cdn.jsdelivr.net/gh/Lunarfang08/Lunarfang08@main/assets/hud-status.svg" alt="System Status HUD" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/Lunarfang08/Lunarfang08@2d62ae7/assets/hud-status.svg" alt="System Status HUD" width="100%"/>
 
 <br/>
 
@@ -36,9 +36,9 @@
 
 <br/><br/>
 
-<img src="https://cdn.jsdelivr.net/gh/Lunarfang08/Lunarfang08@main/assets/system-init.svg" alt="Spider System Initialized" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/Lunarfang08/Lunarfang08@2d62ae7/assets/system-init.svg" alt="Spider System Initialized" width="100%"/>
 
-<img src="https://cdn.jsdelivr.net/gh/Lunarfang08/Lunarfang08@main/assets/divider.svg" alt="" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/Lunarfang08/Lunarfang08@2d62ae7/assets/divider.svg" alt="" width="100%"/>
 
 </div>
 
@@ -48,7 +48,7 @@
 
 ## `> SPIDER-SENSE // IDENTITY`
 
-<img src="https://cdn.jsdelivr.net/gh/Lunarfang08/Lunarfang08@main/assets/spider-radar.svg" alt="Spider Sense Radar" width="280"/>
+<img src="https://cdn.jsdelivr.net/gh/Lunarfang08/Lunarfang08@2d62ae7/assets/spider-radar.svg" alt="Spider Sense Radar" width="280"/>
 
 </div>
 
@@ -84,7 +84,7 @@ status        : ????????????????????????????????????????  ONLINE
 ```
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/Lunarfang08/Lunarfang08@main/assets/divider.svg" alt="" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/Lunarfang08/Lunarfang08@2d62ae7/assets/divider.svg" alt="" width="100%"/>
 </div>
 
 ---
@@ -112,7 +112,7 @@ I don't wrap an LLM and call it a product. I build systems that can **plan, exec
 > Because writing an LLM wrapper and calling it "AI" is... ambitious.
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/Lunarfang08/Lunarfang08@main/assets/divider.svg" alt="" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/Lunarfang08/Lunarfang08@2d62ae7/assets/divider.svg" alt="" width="100%"/>
 </div>
 
 ---
@@ -141,7 +141,7 @@ That's why every system I ship emphasizes:
 `Validation` · `Guardrails` · `Error Recovery` · `Observability` · `Structured Outputs` · `Prompt Versioning`
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/Lunarfang08/Lunarfang08@main/assets/divider.svg" alt="" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/Lunarfang08/Lunarfang08@2d62ae7/assets/divider.svg" alt="" width="100%"/>
 </div>
 
 ---
@@ -182,7 +182,7 @@ That's why every system I ship emphasizes:
 | ?? | Nginx · Gunicorn · SSL/TLS · Cloudflare Tunnel |
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/Lunarfang08/Lunarfang08@main/assets/divider.svg" alt="" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/Lunarfang08/Lunarfang08@2d62ae7/assets/divider.svg" alt="" width="100%"/>
 </div>
 
 ---
@@ -191,7 +191,7 @@ That's why every system I ship emphasizes:
 
 ## `> SPIDER-LAB // FEATURED SYSTEMS`
 
-<img src="https://cdn.jsdelivr.net/gh/Lunarfang08/Lunarfang08@main/assets/agent-graph.svg" alt="Multi-Agent Architecture" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/Lunarfang08/Lunarfang08@2d62ae7/assets/agent-graph.svg" alt="Multi-Agent Architecture" width="100%"/>
 
 </div>
 
@@ -315,7 +315,7 @@ MERN + JWT + bcrypt + RBAC  =  SECURE LEARNING PLATFORM
 | `16` | Payment Extraction API | FastAPI · OpenAI · Pydantic | — |
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/Lunarfang08/Lunarfang08@main/assets/divider.svg" alt="" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/Lunarfang08/Lunarfang08@2d62ae7/assets/divider.svg" alt="" width="100%"/>
 </div>
 
 ---
@@ -324,7 +324,7 @@ MERN + JWT + bcrypt + RBAC  =  SECURE LEARNING PLATFORM
 
 ## `> ACHIEVEMENT MATRIX`
 
-<img src="https://cdn.jsdelivr.net/gh/Lunarfang08/Lunarfang08@main/assets/metrics.svg" alt="Performance Metrics" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/Lunarfang08/Lunarfang08@2d62ae7/assets/metrics.svg" alt="Performance Metrics" width="100%"/>
 
 </div>
 
@@ -350,7 +350,7 @@ MERN + JWT + bcrypt + RBAC  =  SECURE LEARNING PLATFORM
 | **?? Infra** | Docker · Compose · AWS · Nginx · Gunicorn · Cloudflare Tunnel · Vercel · Render · CI/CD |
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/Lunarfang08/Lunarfang08@main/assets/divider.svg" alt="" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/Lunarfang08/Lunarfang08@2d62ae7/assets/divider.svg" alt="" width="100%"/>
 </div>
 
 ---
@@ -390,7 +390,7 @@ Jul 2023 ? Aug 2023
 ```
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/Lunarfang08/Lunarfang08@main/assets/divider.svg" alt="" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/Lunarfang08/Lunarfang08@2d62ae7/assets/divider.svg" alt="" width="100%"/>
 </div>
 
 ---
@@ -441,7 +441,7 @@ STATUS :: VERIFIED
 ```
 
 <div align="center">
-<img src="https://cdn.jsdelivr.net/gh/Lunarfang08/Lunarfang08@main/assets/divider.svg" alt="" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/Lunarfang08/Lunarfang08@2d62ae7/assets/divider.svg" alt="" width="100%"/>
 </div>
 
 ---
@@ -469,7 +469,7 @@ STATUS :: VERIFIED
 
 ## `> SECRET IDENTITY // TERMINAL`
 
-<img src="https://cdn.jsdelivr.net/gh/Lunarfang08/Lunarfang08@main/assets/boot-sequence.svg" alt="Boot Sequence" width="100%"/>
+<img src="https://cdn.jsdelivr.net/gh/Lunarfang08/Lunarfang08@2d62ae7/assets/boot-sequence.svg" alt="Boot Sequence" width="100%"/>
 
 </div>
 
