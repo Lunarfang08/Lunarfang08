@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="Spider System Initialized">
-  <rect width="900" height="220" rx="10" fill="#080808" stroke="#333" stroke-width="2" stroke-dasharray="6 4">
+  <rect width="900" height="220" rx="10" fill="#080808" stroke="#333333" stroke-width="2" stroke-dasharray="6 4">
     <animate attributeName="stroke-dashoffset" values="0;20" dur="1.5s" repeatCount="indefinite"/>
   </rect>
-  <text x="450" y="42" text-anchor="middle" fill="#ff3355" font-family="ui-monospace, Menlo, monospace" font-size="16" letter-spacing="3">=w  SPIDER-SYSTEM INITIALIZED  =w
+  <text x="450" y="42" text-anchor="middle" fill="#ff3355" font-family="ui-monospace, Menlo, monospace" font-size="16" letter-spacing="3">SPIDER-SYSTEM INITIALIZED
     <animate attributeName="opacity" values="0.7;1;0.7" dur="2.5s" repeatCount="indefinite"/>
   </text>
 
@@ -17,13 +17,13 @@
     <path d="M450 100 V150"/>
     <path d="M680 100 V130 H450 V150"/>
   </g>
-  <circle r="3.5" fill="#fff">
+  <circle r="3.5" fill="#ffffff">
     <animateMotion dur="2s" repeatCount="indefinite" path="M220,100 V130 H450 V150"/>
   </circle>
   <circle r="3.5" fill="#ff4455">
     <animateMotion dur="1.8s" repeatCount="indefinite" path="M450,100 V150"/>
   </circle>
-  <circle r="3.5" fill="#fff">
+  <circle r="3.5" fill="#ffffff">
     <animateMotion dur="2.2s" repeatCount="indefinite" path="M680,100 V130 H450 V150"/>
   </circle>
 
