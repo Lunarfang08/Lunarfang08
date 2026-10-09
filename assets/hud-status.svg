@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="70" viewBox="0 0 900 70" role="img" aria-label="System Status HUD">
+  <rect width="900" height="70" rx="8" fill="#0a0a0a" stroke="#222" stroke-width="2"/>
+  <!-- STATUS -->
+  <rect x="16" y="16" width="270" height="38" rx="6" fill="#141414" stroke="#333"/>
+  <text x="32" y="40" fill="#888" font-family="ui-monospace, Menlo, monospace" font-size="13" letter-spacing="2">STATUS</text>
+  <rect x="110" y="22" width="160" height="26" rx="4" fill="#2a0508"/>
+  <text x="190" y="40" text-anchor="middle" fill="#ff2244" font-family="ui-monospace, Menlo, monospace" font-size="13" font-weight="700" letter-spacing="1">SYSTEM ONLINE
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="1.8s" repeatCount="indefinite"/>
+  </text>
+  <!-- AGENTS -->
+  <rect x="308" y="16" width="270" height="38" rx="6" fill="#141414" stroke="#333"/>
+  <text x="324" y="40" fill="#888" font-family="ui-monospace, Menlo, monospace" font-size="13" letter-spacing="2">AGENTS</text>
+  <rect x="402" y="22" width="160" height="26" rx="4" fill="#2a0508"/>
+  <text x="482" y="40" text-anchor="middle" fill="#ff2244" font-family="ui-monospace, Menlo, monospace" font-size="13" font-weight="700" letter-spacing="1">ACTIVE
+    <animate attributeName="opacity" values="0.45;1;0.45" dur="1.4s" repeatCount="indefinite"/>
+  </text>
+  <!-- SENSE -->
+  <rect x="600" y="16" width="284" height="38" rx="6" fill="#141414" stroke="#333"/>
+  <text x="616" y="40" fill="#888" font-family="ui-monospace, Menlo, monospace" font-size="13" letter-spacing="1">SPIDER-SENSE</text>
+  <rect x="740" y="22" width="128" height="26" rx="4" fill="#2a0508"/>
+  <text x="804" y="40" text-anchor="middle" fill="#ff2244" font-family="ui-monospace, Menlo, monospace" font-size="13" font-weight="700" letter-spacing="1">ONLINE
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </text>
+</svg>

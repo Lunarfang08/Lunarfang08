@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Arsal Adnan  Spider System Banner">
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="45%" r="55%">
+      <stop offset="0%" stop-color="#ff1a1a" stop-opacity="0.35"/>
+      <stop offset="55%" stop-color="#8b0000" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#050505" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#ff0033" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ff0033" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#ff0033" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="frame">
+      <rect width="1200" height="320" rx="8"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="#050505"/>
+    <rect width="1200" height="320" fill="url(#glow)"/>
+
+    <!-- grid -->
+    <g stroke="#1a1a1a" stroke-width="1" opacity="0.9">
+      <path d="M0 40 H1200 M0 80 H1200 M0 120 H1200 M0 160 H1200 M0 200 H1200 M0 240 H1200 M0 280 H1200"/>
+      <path d="M80 0 V320 M160 0 V320 M240 0 V320 M320 0 V320 M400 0 V320 M480 0 V320 M560 0 V320 M640 0 V320 M720 0 V320 M800 0 V320 M880 0 V320 M960 0 V320 M1040 0 V320 M1120 0 V320"/>
+    </g>
+
+    <!-- web strands -->
+    <g fill="none" stroke="#ff1a1a" stroke-width="1.2" opacity="0.55" filter="url(#softGlow)">
+      <path d="M600 40 C480 90 360 110 180 130 C280 150 420 170 600 190 C780 170 920 150 1020 130 C840 110 720 90 600 40 Z">
+        <animate attributeName="opacity" values="0.35;0.7;0.35" dur="4s" repeatCount="indefinite"/>
+      </path>
+      <path d="M600 55 C500 100 400 125 250 145 C340 165 460 185 600 205 C740 185 860 165 950 145 C800 125 700 100 600 55 Z"/>
+      <path d="M600 75 C520 110 440 135 320 155 C400 170 500 190 600 210 C700 190 800 170 880 155 C760 135 680 110 600 75 Z"/>
+      <path d="M180 130 L600 190 L1020 130" opacity="0.8"/>
+      <path d="M250 145 L600 205 L950 145" opacity="0.65"/>
+      <path d="M320 155 L600 210 L880 155" opacity="0.5"/>
+      <path d="M600 40 L600 280" opacity="0.45"/>
+      <path d="M420 100 L600 190 L780 100" opacity="0.4"/>
+      <path d="M300 160 L600 240 L900 160" opacity="0.35"/>
+    </g>
+
+    <!-- orbiting nodes -->
+    <g>
+      <circle cx="600" cy="160" r="3" fill="#ff3344">
+        <animate attributeName="r" values="2;5;2" dur="2.2s" repeatCount="indefinite"/>
+        <animate attributeName="opacity" values="0.6;1;0.6" dur="2.2s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="3.5" fill="#ff0033">
+        <animateMotion dur="8s" repeatCount="indefinite" path="M600,70 C760,90 900,140 940,180 C900,220 760,250 600,250 C440,250 300,220 260,180 C300,140 440,90 600,70 Z"/>
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="2.5" fill="#ffffff">
+        <animateMotion dur="11s" repeatCount="indefinite" path="M600,90 C720,110 820,150 850,180 C820,210 720,240 600,240 C480,240 380,210 350,180 C380,150 480,110 600,90 Z"/>
+      </circle>
+      <circle r="2" fill="#ff6666">
+        <animateMotion dur="6.5s" repeatCount="indefinite" path="M520,120 C640,100 760,130 780,170 C740,210 620,230 540,210 C460,190 460,150 520,120 Z"/>
+      </circle>
+    </g>
+
+    <!-- horizontal scan -->
+    <rect x="0" y="0" width="1200" height="28" fill="url(#scan)" opacity="0.7">
+      <animate attributeName="y" values="-28;320" dur="3.8s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- corner HUD brackets -->
+    <g stroke="#ff0033" stroke-width="2" fill="none" opacity="0.85">
+      <path d="M24 54 V24 H54"/>
+      <path d="M1146 54 V24 H1116"/>
+      <path d="M24 266 V296 H54"/>
+      <path d="M1146 266 V296 H1116"/>
+    </g>
+
+    <text x="48" y="48" fill="#ff4455" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="3">SPIDER-SYSTEM // v2.0</text>
+    <text x="980" y="48" fill="#888" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="2">STATUS: LIVE
+      <tspan fill="#00ff88"> Ï</tspan>
+    </text>
+
+    <!-- title with subtle glitch -->
+    <g font-family="Georgia, 'Times New Roman', serif" text-anchor="middle">
+      <text x="603" y="158" fill="#ff0033" opacity="0.35" font-size="68" font-weight="700" letter-spacing="8">ARSAL ADNAN
+        <animate attributeName="x" values="603;607;601;603" dur="0.35s" repeatCount="indefinite"/>
+      </text>
+      <text x="597" y="158" fill="#00e5ff" opacity="0.2" font-size="68" font-weight="700" letter-spacing="8">ARSAL ADNAN
+        <animate attributeName="x" values="597;593;599;597" dur="0.4s" repeatCount="indefinite"/>
+      </text>
+      <text x="600" y="158" fill="#ff1a1a" font-size="68" font-weight="700" letter-spacing="8" filter="url(#softGlow)">ARSAL ADNAN</text>
+    </g>
+
+    <text x="600" y="198" text-anchor="middle" fill="#e8e8e8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" letter-spacing="6">AI ENGINEER  ·  FULL-STACK  ·  SYSTEMS ARCHITECT</text>
+    <text x="600" y="232" text-anchor="middle" fill="#ff3344" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="4">AGENTS THAT PLAN · EXECUTE · VALIDATE · RECOVER
+      <animate attributeName="opacity" values="0.55;1;0.55" dur="2.4s" repeatCount="indefinite"/>
+    </text>
+
+    <text x="48" y="292" fill="#555" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="2">NODE: ISLAMABAD  |  ORG: INTERCRAFT  |  ALIAS: LUNARFANG08</text>
+    <text x="1152" y="292" text-anchor="end" fill="#555" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="2">UPTIME: </text>
+  </g>
+</svg>

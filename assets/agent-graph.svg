@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" role="img" aria-label="Multi-Agent Architecture">
+  <rect width="900" height="420" rx="10" fill="#080808" stroke="#2a2a2a" stroke-width="2"/>
+  <text x="450" y="36" text-anchor="middle" fill="#ff3355" font-family="ui-monospace, Menlo, monospace" font-size="14" letter-spacing="3">MULTI-AGENT ORCHESTRATION // LIVE</text>
+
+  <!-- connections -->
+  <g stroke="#ff0033" stroke-width="1.5" fill="none" opacity="0.55">
+    <path d="M450 90 L450 130"/>
+    <path d="M450 160 L220 210 M450 160 L450 210 M450 160 L680 210"/>
+    <path d="M220 250 L450 290 M450 250 L450 290 M680 250 L450 290"/>
+    <path d="M450 320 L320 360 M450 320 L580 360"/>
+  </g>
+
+  <!-- pulse packets along lines -->
+  <circle r="4" fill="#ffffff">
+    <animateMotion dur="2.4s" repeatCount="indefinite" path="M450,90 L450,130"/>
+  </circle>
+  <circle r="3.5" fill="#ff4455">
+    <animateMotion dur="2.8s" repeatCount="indefinite" path="M450,160 L220,210"/>
+  </circle>
+  <circle r="3.5" fill="#ff4455">
+    <animateMotion dur="2.6s" repeatCount="indefinite" path="M450,160 L450,210"/>
+  </circle>
+  <circle r="3.5" fill="#ff4455">
+    <animateMotion dur="3s" repeatCount="indefinite" path="M450,160 L680,210"/>
+  </circle>
+  <circle r="3" fill="#00ffaa">
+    <animateMotion dur="2.2s" repeatCount="indefinite" path="M220,250 L450,290"/>
+  </circle>
+  <circle r="3" fill="#00ffaa">
+    <animateMotion dur="2.3s" repeatCount="indefinite" path="M450,250 L450,290"/>
+  </circle>
+  <circle r="3" fill="#00ffaa">
+    <animateMotion dur="2.5s" repeatCount="indefinite" path="M680,250 L450,290"/>
+  </circle>
+
+  <!-- nodes -->
+  <g font-family="ui-monospace, Menlo, monospace" font-size="12" text-anchor="middle">
+    <rect x="380" y="58" width="140" height="36" rx="6" fill="#1a0508" stroke="#ff0033" stroke-width="1.5"/>
+    <text x="450" y="81" fill="#fff">USER PROMPT</text>
+
+    <rect x="380" y="130" width="140" height="36" rx="6" fill="#140808" stroke="#ff3355" stroke-width="1.5">
+      <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite"/>
+    </rect>
+    <text x="450" y="153" fill="#ff6680">PLANNER</text>
+
+    <rect x="150" y="210" width="140" height="40" rx="6" fill="#101010" stroke="#666"/>
+    <text x="220" y="235" fill="#ddd">FRONTEND</text>
+    <text x="220" y="248" fill="#888" font-size="10">AGENT</text>
+
+    <rect x="380" y="210" width="140" height="40" rx="6" fill="#101010" stroke="#666"/>
+    <text x="450" y="235" fill="#ddd">BACKEND</text>
+    <text x="450" y="248" fill="#888" font-size="10">AGENT</text>
+
+    <rect x="610" y="210" width="140" height="40" rx="6" fill="#101010" stroke="#666"/>
+    <text x="680" y="235" fill="#ddd">DATABASE</text>
+    <text x="680" y="248" fill="#888" font-size="10">AGENT</text>
+
+    <rect x="380" y="290" width="140" height="36" rx="6" fill="#051410" stroke="#00cc88" stroke-width="1.5">
+      <animate attributeName="stroke-opacity" values="0.35;1;0.35" dur="1.6s" repeatCount="indefinite"/>
+    </rect>
+    <text x="450" y="313" fill="#00ffaa">QA AGENT</text>
+
+    <rect x="250" y="360" width="140" height="32" rx="6" fill="#1a1005" stroke="#ffaa00"/>
+    <text x="320" y="381" fill="#ffcc66">AUTO-FIX</text>
+
+    <rect x="510" y="360" width="140" height="32" rx="6" fill="#051a10" stroke="#00ff88"/>
+    <text x="580" y="381" fill="#66ffaa">DEPLOY =€</text>
+  </g>
+</svg>

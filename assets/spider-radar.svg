@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="280" height="280" viewBox="0 0 280 280" role="img" aria-label="Spider Sense Radar">
+  <defs>
+    <radialGradient id="rglow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#ff0033" stop-opacity="0.25"/>
+      <stop offset="70%" stop-color="#110000" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#050505" stop-opacity="0.9"/>
+    </radialGradient>
+  </defs>
+  <rect width="280" height="280" rx="12" fill="#080808" stroke="#2a2a2a" stroke-width="2"/>
+  <circle cx="140" cy="140" r="120" fill="url(#rglow)"/>
+  <g fill="none" stroke="#331111" stroke-width="1">
+    <circle cx="140" cy="140" r="30"/>
+    <circle cx="140" cy="140" r="60"/>
+    <circle cx="140" cy="140" r="90"/>
+    <circle cx="140" cy="140" r="115"/>
+    <path d="M140 20 V260 M20 140 H260"/>
+    <path d="M45 45 L235 235 M235 45 L45 235" opacity="0.5"/>
+  </g>
+  <!-- sweeping wedge -->
+  <path d="M140 140 L140 25 A115 115 0 0 1 230 70 Z" fill="#ff0033" opacity="0.28">
+    <animateTransform attributeName="transform" type="rotate" from="0 140 140" to="360 140 140" dur="3.2s" repeatCount="indefinite"/>
+  </path>
+  <path d="M140 140 L140 25" stroke="#ff3355" stroke-width="2" opacity="0.9">
+    <animateTransform attributeName="transform" type="rotate" from="0 140 140" to="360 140 140" dur="3.2s" repeatCount="indefinite"/>
+  </path>
+  <!-- blips -->
+  <circle cx="188" cy="86" r="4" fill="#ff0033">
+    <animate attributeName="opacity" values="0.2;1;0.2" dur="1.6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="98" cy="178" r="3" fill="#ff6680">
+    <animate attributeName="opacity" values="0.1;1;0.1" dur="2.1s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="196" cy="168" r="3.5" fill="#ffffff">
+    <animate attributeName="opacity" values="0.2;0.95;0.2" dur="1.3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="140" cy="140" r="5" fill="#ff1a1a">
+    <animate attributeName="r" values="4;7;4" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="140" y="258" text-anchor="middle" fill="#ff4455" font-family="ui-monospace, Menlo, monospace" font-size="11" letter-spacing="2">SPIDER-SENSE ONLINE</text>
+</svg>

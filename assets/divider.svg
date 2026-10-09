@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="24" viewBox="0 0 900 24" role="img" aria-label="Web Divider">
+  <line x1="0" y1="12" x2="900" y2="12" stroke="#2a2a2a" stroke-width="1"/>
+  <circle cx="450" cy="12" r="4" fill="#ff0033">
+    <animate attributeName="r" values="3;5;3" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="430" cy="12" r="2" fill="#ff4466" opacity="0.7">
+    <animate attributeName="cx" values="430;420;430" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="470" cy="12" r="2" fill="#ff4466" opacity="0.7">
+    <animate attributeName="cx" values="470;480;470" dur="2.4s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M360 12 H420 M480 12 H540" stroke="#ff0033" stroke-width="1" opacity="0.5"/>
+</svg>

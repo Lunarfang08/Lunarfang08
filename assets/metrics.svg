@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-label="Performance Metrics">
+  <rect width="900" height="320" rx="10" fill="#0a0a0a" stroke="#2a2a2a" stroke-width="2"/>
+  <text x="28" y="36" fill="#ff3355" font-family="ui-monospace, Menlo, monospace" font-size="14" letter-spacing="3">PERFORMANCE LOG // LIVE TELEMETRY</text>
+  <g font-family="ui-monospace, Menlo, monospace" font-size="12">
+    <!-- row helper: label, bar width animated, value -->
+    <text x="28" y="78" fill="#999">LLM COSTS</text>
+    <rect x="220" y="64" width="520" height="16" rx="3" fill="#1a1a1a"/>
+    <rect x="220" y="64" height="16" rx="3" fill="#ff0033" width="0">
+      <animate attributeName="width" values="0;480;480" dur="2.2s" fill="freeze"/>
+    </rect>
+    <text x="760" y="78" fill="#ff4455">-60%</text>
+
+    <text x="28" y="112" fill="#999">DEPLOYMENT TIME</text>
+    <rect x="220" y="98" width="520" height="16" rx="3" fill="#1a1a1a"/>
+    <rect x="220" y="98" height="16" rx="3" fill="#cc0022" width="0">
+      <animate attributeName="width" values="0;400;400" dur="2.4s" fill="freeze"/>
+    </rect>
+    <text x="760" y="112" fill="#ff4455">-35%</text>
+
+    <text x="28" y="146" fill="#999">API CONCURRENCY</text>
+    <rect x="220" y="132" width="520" height="16" rx="3" fill="#1a1a1a"/>
+    <rect x="220" y="132" height="16" rx="3" fill="#ff2244" width="0">
+      <animate attributeName="width" values="0;500;500" dur="2.6s" fill="freeze"/>
+    </rect>
+    <text x="760" y="146" fill="#ff4455">50+</text>
+
+    <text x="28" y="180" fill="#999">WEBSITE LOAD SPEED</text>
+    <rect x="220" y="166" width="520" height="16" rx="3" fill="#1a1a1a"/>
+    <rect x="220" y="166" height="16" rx="3" fill="#e60026" width="0">
+      <animate attributeName="width" values="0;490;490" dur="2.8s" fill="freeze"/>
+    </rect>
+    <text x="760" y="180" fill="#ff4455">+40%</text>
+
+    <text x="28" y="214" fill="#999">APP PERFORMANCE</text>
+    <rect x="220" y="200" width="520" height="16" rx="3" fill="#1a1a1a"/>
+    <rect x="220" y="200" height="16" rx="3" fill="#ff1a1a" width="0">
+      <animate attributeName="width" values="0;430;430" dur="3s" fill="freeze"/>
+    </rect>
+    <text x="760" y="214" fill="#ff4455">+30%</text>
+
+    <text x="28" y="248" fill="#999">HR WORKLOAD</text>
+    <rect x="220" y="234" width="520" height="16" rx="3" fill="#1a1a1a"/>
+    <rect x="220" y="234" height="16" rx="3" fill="#990018" width="0">
+      <animate attributeName="width" values="0;360;360" dur="3.2s" fill="freeze"/>
+    </rect>
+    <text x="760" y="248" fill="#ff4455">-25%</text>
+
+    <text x="28" y="282" fill="#999">PAYROLL ACCURACY</text>
+    <rect x="220" y="268" width="520" height="16" rx="3" fill="#1a1a1a"/>
+    <rect x="220" y="268" height="16" rx="3" fill="#b3001e" width="0">
+      <animate attributeName="width" values="0;300;300" dur="3.4s" fill="freeze"/>
+    </rect>
+    <text x="760" y="282" fill="#ff4455">+20%</text>
+  </g>
+</svg>
