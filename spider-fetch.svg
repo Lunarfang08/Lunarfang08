@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="580" viewBox="0 0 900 580" role="img" aria-label="Spider Fetch developer profile">
+<rect x="1" y="1" width="898" height="578" rx="18" fill="#0a0a0a" stroke="#34343a" stroke-width="2"/>
+<g font-family="monospace" font-size="19">
+<text x="34" y="43" fill="#ff0033" font-weight="bold">Lunarfang08@github</text>
+<path d="M270 37 H866" stroke="#34343a" stroke-width="2"/>
+<text x="34" y="83" fill="#ff5268">OS:</text><text x="866" y="83" text-anchor="end" fill="#eaeaea">macOS · Ubuntu / Linux</text>
+<path d="M79.8 78 H602.1" stroke="#55555d" stroke-width="3" stroke-dasharray="3 7"/>
+<text x="34" y="113" fill="#ff5268">Experience:</text><text x="866" y="113" text-anchor="end" fill="#eaeaea">3+ years</text>
+<path d="M171.4 108 H762.4" stroke="#55555d" stroke-width="3" stroke-dasharray="3 7"/>
+<text x="34" y="143" fill="#ff5268">Host:</text><text x="866" y="143" text-anchor="end" fill="#eaeaea">Intercraft Pvt Ltd</text>
+<path d="M102.7 138 H647.9" stroke="#55555d" stroke-width="3" stroke-dasharray="3 7"/>
+<text x="34" y="173" fill="#ff5268">Kernel:</text><text x="866" y="173" text-anchor="end" fill="#eaeaea">AI Engineer / Full-Stack Developer</text>
+<path d="M125.6 168 H464.7" stroke="#55555d" stroke-width="3" stroke-dasharray="3 7"/>
+<text x="34" y="203" fill="#ff5268">IDE:</text><text x="866" y="203" text-anchor="end" fill="#eaeaea">Cursor · Claude Code · VS Code</text>
+<path d="M91.2 198 H510.5" stroke="#55555d" stroke-width="3" stroke-dasharray="3 7"/>
+<text x="34" y="233" fill="#ff5268">Languages.Code:</text><text x="866" y="233" text-anchor="end" fill="#eaeaea">Python · TypeScript · JavaScript · SQL</text>
+<path d="M217.2 228 H418.9" stroke="#55555d" stroke-width="3" stroke-dasharray="3 7"/>
+<text x="34" y="263" fill="#ff5268">AI Stack:</text><text x="866" y="263" text-anchor="end" fill="#eaeaea">LangGraph · LangChain · RAG · LLMs</text>
+<path d="M148.5 258 H464.7" stroke="#55555d" stroke-width="3" stroke-dasharray="3 7"/>
+<text x="34" y="293" fill="#ff5268">Infrastructure:</text><text x="866" y="293" text-anchor="end" fill="#eaeaea">Docker · AWS · Cloudflare</text>
+<path d="M217.2 288 H567.8" stroke="#55555d" stroke-width="3" stroke-dasharray="3 7"/>
+<text x="34" y="323" fill="#ff5268">Location:</text><text x="866" y="323" text-anchor="end" fill="#eaeaea">Islamabad / Rawalpindi, Pakistan</text>
+<path d="M148.5 318 H487.6" stroke="#55555d" stroke-width="3" stroke-dasharray="3 7"/>
+<text x="34" y="353" fill="#ff0033">— CONTACT</text><path d="M270 347 H866" stroke="#34343a" stroke-width="2"/>
+<text x="34" y="386" fill="#ff5268">Email:</text><text x="866" y="386" text-anchor="end" fill="#eaeaea">arsaladnan07@gmail.com</text>
+<path d="M114.1 381 H602.1" stroke="#55555d" stroke-width="3" stroke-dasharray="3 7"/>
+<text x="34" y="416" fill="#ff5268">LinkedIn:</text><text x="866" y="416" text-anchor="end" fill="#eaeaea">in/arsaladnan</text>
+<path d="M148.5 411 H705.1" stroke="#55555d" stroke-width="3" stroke-dasharray="3 7"/>
+<text x="34" y="446" fill="#ff5268">Portfolio:</text><text x="866" y="446" text-anchor="end" fill="#eaeaea">arsaladnan08-one.vercel.app</text>
+<path d="M159.9 441 H544.9" stroke="#55555d" stroke-width="3" stroke-dasharray="3 7"/>
+<text x="34" y="476" fill="#ff0033">— GITHUB TELEMETRY</text><path d="M270 470 H866" stroke="#34343a" stroke-width="2"/>
+<text x="34" y="509" fill="#ff5268">GitHub:</text><text x="866" y="509" text-anchor="end" fill="#eaeaea">Lunarfang08</text>
+<path d="M125.6 504 H728.0" stroke="#55555d" stroke-width="3" stroke-dasharray="3 7"/>
+<text x="34" y="542" fill="#888891" font-size="16">Live repository metrics are displayed below the card.</text></g></svg>
