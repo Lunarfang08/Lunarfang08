@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Lunarfang08/Lunarfang08/dae7148/assets/banner.svg" alt="Arsal Adnan — Spider System" width="100%"/>
@@ -43,6 +44,32 @@
 </div>
 
 ---
+
+<!-- NEW SECTION: SPIDER-FETCH -->
+
+<div align="center">
+
+## `> SPIDER-FETCH // SYSTEM PROFILE`
+
+<img src="./assets/spider-fetch.svg" alt="Lunarfang08 terminal profile: AI Engineer, Intercraft, macOS and Linux, Python and TypeScript" width="100%"/>
+
+<br/>
+
+<a href="https://github.com/Lunarfang08?tab=repositories">
+  <img src="https://img.shields.io/badge/REPOSITORIES-VIEW-FF0033?style=flat-square&logo=github" alt="Repositories"/>
+</a>
+<a href="https://github.com/Lunarfang08?tab=followers">
+  <img src="https://img.shields.io/github/followers/Lunarfang08?style=flat-square&label=Followers&color=FF0033" alt="Followers"/>
+</a>
+<a href="https://github.com/Lunarfang08?tab=repositories">
+  <img src="https://img.shields.io/github/stars/Lunarfang08?style=flat-square&label=Stars&color=FF0033" alt="Stars"/>
+</a>
+
+</div>
+
+---
+
+<!-- END SPIDER-FETCH -->
 
 <div align="center">
 
@@ -509,4 +536,5 @@ STATUS :: VERIFIED
 ?                                                      ?
 ????????????????????????????????????????????????????????
 ```
+
 </div>
