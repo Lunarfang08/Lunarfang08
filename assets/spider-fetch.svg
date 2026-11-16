@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="580" viewBox="0 0 900 580" role="img" aria-label="Spider Fetch developer profile">
-<rect x="1" y="1" width="898" height="578" rx="18" fill="#0a0a0a" stroke="#34343a" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="700" viewBox="0 0 900 700" role="img" aria-label="Spider Fetch developer profile">
+<rect x="1" y="1" width="898" height="698" rx="18" fill="#0a0a0a" stroke="#34343a" stroke-width="2"/>
 <g font-family="monospace" font-size="19">
 <text x="34" y="43" fill="#ff0033" font-weight="bold">Lunarfang08@github</text>
 <path d="M270 37 H866" stroke="#34343a" stroke-width="2"/>
@@ -29,6 +29,14 @@
 <text x="34" y="446" fill="#ff5268">Portfolio:</text><text x="866" y="446" text-anchor="end" fill="#eaeaea">arsaladnan08-one.vercel.app</text>
 <path d="M159.9 441 H544.9" stroke="#55555d" stroke-width="3" stroke-dasharray="3 7"/>
 <text x="34" y="476" fill="#ff0033">— GITHUB TELEMETRY</text><path d="M270 470 H866" stroke="#34343a" stroke-width="2"/>
-<text x="34" y="509" fill="#ff5268">GitHub:</text><text x="866" y="509" text-anchor="end" fill="#eaeaea">Lunarfang08</text>
-<path d="M125.6 504 H728.0" stroke="#55555d" stroke-width="3" stroke-dasharray="3 7"/>
-<text x="34" y="542" fill="#888891" font-size="16">Live repository metrics are displayed below the card.</text></g></svg>
+<text x="34" y="509" fill="#ff5268">Public repos:</text><text x="866" y="509" text-anchor="end" fill="#eaeaea">41   |   Stars: 36</text>
+<path d="M194.29999999999998 504 H647.9" stroke="#55555d" stroke-width="3" stroke-dasharray="3 7"/>
+<text x="34" y="539" fill="#ff5268">Commits:</text><text x="866" y="539" text-anchor="end" fill="#eaeaea">129   |   Followers: 32</text>
+<path d="M137.05 534 H590.6500000000001" stroke="#55555d" stroke-width="3" stroke-dasharray="3 7"/>
+<text x="34" y="569" fill="#ff5268">Lines of code:</text><text x="866" y="569" text-anchor="end" fill="#eaeaea">10,837,964   ( 10,854,946++  /  16,982-- )</text>
+<path d="M205.75 564 H373.1" stroke="#55555d" stroke-width="3" stroke-dasharray="3 7"/>
+<text x="34" y="599" fill="#ff5268">Pull requests:</text><text x="866" y="599" text-anchor="end" fill="#eaeaea">16   |   Issues: 1</text>
+<path d="M205.75 594 H647.9" stroke="#55555d" stroke-width="3" stroke-dasharray="3 7"/>
+<text x="34" y="650" fill="#888891" font-size="14">Commits / LOC: authored non-merge commits in owned public non-fork default branches.</text>
+<text x="34" y="674" fill="#888891" font-size="14">Updated: 2026-11-16 UTC · LOC = additions minus deletions</text>
+</g></svg>
