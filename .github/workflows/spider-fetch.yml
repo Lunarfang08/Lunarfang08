@@ -1,0 +1,46 @@
+
+name: Update Spider Fetch
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 2 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: spider-fetch
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate Spider Fetch statistics
+        run: python scripts/update_spider_fetch.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          EXTRA_AUTHOR_EMAILS: ${{ vars.SPIDER_AUTHOR_EMAILS }}
+
+      - name: Commit and push updated SVG
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+
+          git add assets/spider-fetch.svg
+
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: refresh Spider Fetch telemetry'
+            git push
+          fi
